@@ -16,7 +16,7 @@ The course starts on the 06.04.2021 (Tuesday) and goes until the 09.04.2021 (Fri
 
 ### Lecture notes
 
-The lecture notes can be found in the folder `lecture-notes` and a nicely rendered version is available here: [online script](https://htmlpreview.github.io/?https://github.com/timmens/r-course/blob/master/script/script.html).
+The lecture notes can be found in the folder `lecture-notes` and a nicely rendered version is available here: [online script](https://josefnagelschmidt.github.io/r-course-2021/).
 
 ### Live coding scripts
 
@@ -28,7 +28,7 @@ Solutions to the exercises will be found in the folder `exercises`, in which we 
 
 ### Outlook
 
-On Friday and, if time permits, I will present on what's possible with R which will be summarized in a small [outlook](https://htmlpreview.github.io/?https://github.com/timmens/r-course/blob/master/outlook/outlook.html).
+On Friday and, if time permits, I will present on what's possible with R which will be summarized in a small outlook.
 
 
 <!-- LICENSE -->
