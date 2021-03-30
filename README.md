@@ -24,11 +24,11 @@ All scripts that will be written during the live coding will be available in the
 
 ### Exercises
 
-Solutions to the exercises will be found in the folder `exercises`, in which we also store the data which is needed to solve the exercises. (As of right now we cannot upload the exercises due to copyright issues.)
+Solutions to the exercises will be found in the folder `.exercises`, in which we also store the data which is needed to solve the exercises. As of right now we cannot upload the exercises on Github due to copyright issues. However, you can access those with the password provided at the start of the course at[exercises](https://uni-bonn.sciebo.de/s/aJqdU36DZ5vgBzu).
 
 ### Outlook
 
-On Friday and, if time permits, I will present on what's possible with R which will be summarized in a small outlook.
+On Friday and, if time permits, I will present on what's possible with R in a small outlook.
 
 
 <!-- LICENSE -->
