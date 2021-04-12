@@ -2,6 +2,10 @@ rm(list = ls())
 
 # note that this script assumes that you have the python package "tensorflow"
 # installed on your machine, and R knows how to find it.
+# if you want to play around with this script, just provide pictures 
+# for cars and planes (for example) with the filenames "p1.jpg" to "p6.jpg" (planes)
+# and "c1.jpg" to "c6.jpg" (cars). The remaining three pictures were randomly taken from the internet
+# (eg. bird, ...)´
 
 library("EBImage")
 library("keras")
